@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{8C3A57DF-7B06-46FC-8579-B22D147A9019}|Default">
+  <MonoDevelop.Ide.ItemProperties.Com.WonderPush.iOS FirstBuild="True" HideGettingStarted="True" />
+  <MonoDevelop.Ide.ItemProperties.Com.WonderPush.NuGet FirstBuild="True" HideGettingStarted="True" />
+  <MonoDevelop.Ide.ItemProperties.Com.WonderPush.Shared FirstBuild="True" HideGettingStarted="True" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Com.WonderPush" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Com.WonderPush.Android FirstBuild="True" PreferredExecutionTarget="Android.Nexus_5X_API_29_x86" HideGettingStarted="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
